@@ -1,11 +1,5 @@
 ## 本项目是一个完整的微信公众号web操作版，直接编译即可运行。让用户不再用关心微信的底层接口，直接使用页面进行操作，简单方便。
 ### 包括服务器绑定、文本管理、图文管理、菜单管理、粉丝管理、群发消息等
----------------------------------
-[![QQ](https://img.shields.io/badge/chat-on%20QQ-ff69b4.svg?style=flat-square)](https://jq.qq.com/?_wv=1027&k=5bGtRX8)
-[![GPL-3.0](https://img.shields.io/cran/l/devtools.svg)](https://gitee.com/qingfengtaizi/wxmp/blob/master/LICENSE)
-[![使用IntelliJ IDEA开发维护](https://img.shields.io/badge/IntelliJ%20IDEA-提供支持-blue.svg)](https://www.jetbrains.com/idea/)
-
----------------------------------
 
 ##  技术框架
 
