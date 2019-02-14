@@ -22,19 +22,13 @@ JAVA开发框架：Spring MVC+Spring+Mybatis
 前台模板引擎：art-template
 
 ## 简介
-1. QQ群：[![加入QQ群](https://img.shields.io/badge/QQ群-671585861-blue.svg)](http://shang.qq.com/wpa/qunwpa?idkey=b7f4442a2a6b369a55aaa549bc0fbf14c478543d6a9c8f74eafca0378fcfcf40) 或 [![加入QQ群](https://img.shields.io/badge/QQ群-671585861-blue.svg)](https://jq.qq.com/?_wv=1027&k=5bGtRX8)，推荐点击按钮入群，当然如果无法成功操作，请自行搜索群号`671585861`进行添加
-1. 官方网址：[https://www.smartwx.info](https://www.smartwx.info/)
-1. 本项目在以下代码托管网站同步更新:
-* 码云：https://gitee.com/qingfengtaizi/wxmp
-* github：https://github.com/qingfengtaizi/wxmp-web
-
+  微信公众号管理平台
 
 ## 应用场景
 - SmartWx是一款基于JAVA企业级平台研发的微信公众号管理系统， 依托企业级JAVA的高效、安全、稳定等优势，开创国内JAVA版开源微信公众号管理系统先河。
 - SmartWx采用最流行的Spring语言，来实现多公众号的管理。
-- 如果您要需要搭建一个微信公众号管理系统,那么您可以用SmartWx
-- 如果您厌烦了微信公众号管理后台枯燥的页面，那么您可以用SmartWx
-- 如果您手中有很多公众号，那么您可以用SmartWx
+- 如果需要搭建一个微信公众号管理系统,可以用SmartWx
+- 如果手中有很多公众号，也可以用SmartWx
 
 ## 功能模块
  #### 账号信息
@@ -88,7 +82,7 @@ JAVA开发框架：Spring MVC+Spring+Mybatis
 1. 访问系统。地址：[http://localhost:8080/](http://localhost:8080/)；用户名：smartwx，密码：smartwx
 1. 由于eclipse识别问题，部分xml文件和html页面会报错，无需关心，运行即可。
 1. 添加公众号页面，url和token两项自动生成，***无需手动填写***。将 ***开通80端口的公网ip或域名（切记全路径）+url*** 和 ***token*** 这两项填入到微信后台即可
-1. 添加完公众号，大家先尝试下 同步粉丝功能，若成功，则项目配置完成，若无法获取accesstoken，切记检查 微信后台 ***获取accesstoken白名单设置***
+1. 添加完公众号，先尝试下 同步粉丝功能，若成功，则项目配置完成，若无法获取accesstoken，切记检查 微信后台 ***获取accesstoken白名单设置***
 
  ## 相关连接
 官方网址：[https://www.smartwx.info](https://www.smartwx.info/)
