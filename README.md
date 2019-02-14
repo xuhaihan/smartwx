@@ -78,13 +78,6 @@ JAVA开发框架：Spring MVC+Spring+Mybatis
 1. 添加公众号页面，url和token两项自动生成，***无需手动填写***。将 ***开通80端口的公网ip或域名（切记全路径）+url*** 和 ***token*** 这两项填入到微信后台即可
 1. 添加完公众号，先尝试下 同步粉丝功能，若成功，则项目配置完成，若无法获取accesstoken，切记检查 微信后台 ***获取accesstoken白名单设置***
 
- ## 相关连接
-官方网址：[https://www.smartwx.info](https://www.smartwx.info/)
-
-版主QQ：[794890569](http://wpa.qq.com/msgrd?v=3&uin=794890569&site=qq&menu=yes/)
-
-服务器支持：[http://webcsn.com](http://webcsn.com/)
-
  ## 更新内容
  #### 2.0.2版本 已发布，此次修改内容如下：
 1. 增加素材管理包括 图文音频视频
